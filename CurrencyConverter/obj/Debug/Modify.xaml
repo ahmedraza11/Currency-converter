@@ -1,0 +1,158 @@
+﻿<Page
+    x:Class="CurrencyConverter.Modify"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CurrencyConverter" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Margin="0,-10,0,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="48*"/>
+            <ColumnDefinition Width="26*"/>
+            <ColumnDefinition Width="193*"/>
+            <ColumnDefinition Width="176*"/>
+            <ColumnDefinition Width="868*"/>
+            <ColumnDefinition Width="55*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="135*"/>
+            <RowDefinition Height="81*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="147*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Wallpapers from w-dog.net 1366x768.jpg" Opacity="0.4"/>
+        </Grid.Background>
+        <TextBlock Text="Forex Rates Modification" FontSize="32" HorizontalAlignment="Center" Margin="115,48,404,52" Grid.RowSpan="13" Grid.Column="4" Width="349"></TextBlock>
+        <TextBlock Text="Forex Rates:" Grid.Column="2" Grid.Row="1" FontSize="32" Margin="10,10,4,30" Grid.ColumnSpan="3" Grid.RowSpan="11" Foreground="#FFFFE806"></TextBlock>
+        <TextBlock Text="China Yen" FontSize="23" Grid.Column="2" Grid.Row="2" HorizontalAlignment="Left"  Foreground="#FF92F0BC" Width="95"></TextBlock>
+        <TextBlock Text="Egypt" FontSize="23" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="155"/>
+        <TextBlock Text="France" FontSize="23" Grid.Column="2" Grid.Row="4" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="101"></TextBlock>
+        <TextBlock Text="Euro" FontSize="23" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="46"></TextBlock>
+        <TextBlock Text="Indonasia" FontSize="23" Grid.Column="2" Grid.Row="6" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="119"></TextBlock>
+        <TextBlock Text="Soomalia" FontSize="23" Grid.Column="2" Grid.Row="7" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="106"></TextBlock>
+        <TextBlock Text="Pak Rupee" FontSize="23" Grid.Column="2" Grid.Row="8" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="134"></TextBlock>
+        <TextBlock Text="Indian Rupee" FontSize="23" Grid.Column="2" Grid.Row="9" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="134"></TextBlock>
+        <TextBlock Text="Saudi Riyal" FontSize="23" Grid.Column="2" Grid.Row="10" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="119"></TextBlock>
+        <TextBlock Text="Dubai Darham" FontSize="23" Grid.Column="2" Grid.Row="11" HorizontalAlignment="Left" Foreground="#FF92F0BC" Width="146"/>
+
+
+
+        <TextBlock Name="Egypt" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="3" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="France" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="4" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="Euro" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="5" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="Indonasia" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="6" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="Soomalia" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="7" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="Pak_Rupee" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="8" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="Indian_Rupee" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="9" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="Saudi_Riyal" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="10" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"/>
+        <TextBlock Name="Dubai_Darham" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="11" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67"></TextBlock>
+        <TextBlock Name="China" Text="104.15" FontSize="23" Grid.Column="3" Grid.Row="2" HorizontalAlignment="Left" Foreground="#FFE4B562" Width="67" Height="40" VerticalAlignment="Top"></TextBlock>
+        <ListView Grid.Column="4" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" Grid.Row="3" Grid.RowSpan="3" VerticalAlignment="Top" Width="100"/>
+        <ListView x:ConnectionId='1' Grid.Column="4" Name="lst" HorizontalAlignment="Left" Height="474" Grid.Row="1" Grid.RowSpan="11" VerticalAlignment="Top" Width="271" Margin="0,10,0,0"                                             >
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/US.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Pak Rupee.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Indian Rupee.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Soomalia.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/China Yen.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Egypt.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Euro.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Indonesia.jpg"  Width="219"/>
+            </StackPanel>
+
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Saudi Riyal.jpg"  Width="219"/>
+            </StackPanel>
+            <StackPanel Width="241">
+                <StackPanel.Background>
+                    <SolidColorBrush Color="#FFA3BF87" Opacity="0.3"/>
+                </StackPanel.Background>
+                <Image Source="Assets/Dubai Darham.jpg"  Width="219"/>
+            </StackPanel>
+
+        </ListView>
+        <TextBlock Name="txtName" Text="Currency Name" FontSize="25" FontWeight="Light" HorizontalAlignment="Center" Margin="325,16,194,-52" Grid.RowSpan="12" Grid.Column="4" Width="349" Grid.Row="1"/>
+        <TextBox Width="150" FontSize="33" Grid.Column="4" Margin="325,62,393,10" Grid.Row="1" Grid.RowSpan="2"/>
+        <TextBlock Text="Amount PKR" FontSize="22" FontWeight="SemiLight" Grid.Column="4" Margin="492,3,231,21" Grid.Row="2" Grid.RowSpan="4"/>
+        <Button Content="Set Amount" FontSize="22" Grid.Column="4" Margin="322,10,0,22" Grid.Row="3" Grid.RowSpan="2"/>
+        <StackPanel Grid.Column="4" HorizontalAlignment="Left" Height="282" Margin="630,0,0,10" Grid.Row="2" Grid.RowSpan="8" VerticalAlignment="Bottom" Width="234">
+            <StackPanel.Background>
+                <SolidColorBrush Color="#FFFDFDFD" Opacity="0.15"/>
+            </StackPanel.Background>
+            <TextBlock Text="Rate Changing Rules" Foreground="White" FontSize="22" Margin="21,10,10,10"></TextBlock>
+            <TextBlock Margin="6,18,6,6" TextWrapping="Wrap" Text="1. The Currency Should selected from ListView.
+                      
+                       2. The Currency Will be change in PKR value.
+                       
+                       3. Be Sure before apply changes.
+                       
+                       4. Give correct values in Integer or Float values.
+                       
+                       5. Alert! This is an only Currency Converter. Be avoid for any miss use." FontSize="15" Height="209"/>
+        </StackPanel>
+        <Button x:ConnectionId='2' Content="Main Page" FontSize="15" Grid.Column="4" Margin="627,-3,0,5" Grid.Row="11"                     />
+        <Button Content="Start Convert Currency" FontSize="15" Grid.Column="4" Margin="322,36,0,7" Grid.Row="10" Grid.RowSpan="2"/>
+
+    </Grid>
+</Page>
+

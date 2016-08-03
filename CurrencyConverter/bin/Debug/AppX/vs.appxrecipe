@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AHMEDRAZA</Machine>
+    <WindowsUser>Aptech</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6494eccd-f5e8-4668-aa1d-2f6d01d1b2cd</PackageIdentityName>
+    <RegisteredManifestChecksum>DD4DE0C30DDBF2AF9851FA364D432B2D80C88C99318D4D7F65B4B5E609ACC26C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6494eccd-f5e8-4668-aa1d-2f6d01d1b2cd_1.0.0.0_neutral__0rvh57fqnzhft</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6494eccd-f5e8-4668-aa1d-2f6d01d1b2cd_0rvh57fqnzhft!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6494eccd-f5e8-4668-aa1d-2f6d01d1b2cd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Aptech</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-26T18:51:34.265</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe">
+      <PackagePath>CurrencyConverter.exe</PackagePath>
+      <Modified>2016-08-03T10:05:36.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.13.0\Redist\Debug\x64\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2016-06-10T07:20:50.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:18.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\10.jpg">
+      <PackagePath>Assets\10.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\12.jpg">
+      <PackagePath>Assets\12.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\15.jpg">
+      <PackagePath>Assets\15.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\16.jpg">
+      <PackagePath>Assets\16.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:18.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\20.jpg">
+      <PackagePath>Assets\20.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\21.jpg">
+      <PackagePath>Assets\21.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\22.jpg">
+      <PackagePath>Assets\22.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\23.jpg">
+      <PackagePath>Assets\23.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\25.jpg">
+      <PackagePath>Assets\25.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\27.jpg">
+      <PackagePath>Assets\27.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\28.jpg">
+      <PackagePath>Assets\28.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\29.jpg">
+      <PackagePath>Assets\29.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\5.jpg">
+      <PackagePath>Assets\5.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\6.jpg">
+      <PackagePath>Assets\6.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\7.jpg">
+      <PackagePath>Assets\7.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\modifyy.jpg">
+      <PackagePath>Assets\modifyy.jpg</PackagePath>
+      <Modified>2016-07-26T17:56:06.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\8.jpg">
+      <PackagePath>Assets\8.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\9.jpg">
+      <PackagePath>Assets\9.jpg</PackagePath>
+      <Modified>2016-07-15T11:49:19.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\British.jpg">
+      <PackagePath>Assets\British.jpg</PackagePath>
+      <Modified>2016-07-17T15:54:17.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\China Yen.jpg">
+      <PackagePath>Assets\China Yen.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Dubai Darham.jpg">
+      <PackagePath>Assets\Dubai Darham.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Egypt.jpg">
+      <PackagePath>Assets\Egypt.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Euro.jpg">
+      <PackagePath>Assets\Euro.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\France.jpg">
+      <PackagePath>Assets\France.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Indian Rupee.jpg">
+      <PackagePath>Assets\Indian Rupee.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Indonesia.jpg">
+      <PackagePath>Assets\Indonesia.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Pak Rupee.jpg">
+      <PackagePath>Assets\Pak Rupee.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Saudi Riyal.jpg">
+      <PackagePath>Assets\Saudi Riyal.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Soomalia.jpg">
+      <PackagePath>Assets\Soomalia.jpg</PackagePath>
+      <Modified>2016-07-19T15:53:47.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\US.jpg">
+      <PackagePath>Assets\US.jpg</PackagePath>
+      <Modified>2016-07-17T15:54:17.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Wallpapers from w-dog.net 1366x768.jpg">
+      <PackagePath>Assets\Wallpapers from w-dog.net 1366x768.jpg</PackagePath>
+      <Modified>2016-07-26T17:59:05.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+      <Modified>2016-07-14T14:18:00.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\convert.png">
+      <PackagePath>Assets\convert.png</PackagePath>
+      <Modified>2016-07-17T14:07:51.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-14T14:18:37.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\Convert_page.xbf">
+      <PackagePath>Convert_page.xbf</PackagePath>
+      <Modified>2016-07-29T19:09:14.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-27T11:27:09.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\Modify.xbf">
+      <PackagePath>Modify.xbf</PackagePath>
+      <Modified>2016-07-28T07:53:59.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Aptech\documents\visual studio 2013\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-26T18:51:33.981</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
